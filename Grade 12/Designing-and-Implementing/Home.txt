@@ -1,0 +1,5 @@
+1
+Arena
+Home
+A place of rest. Use the fountain here to heal and take a break from the action.
+true
