@@ -1,1 +1,1 @@
-Hi :D
+Highschool Java Projects
